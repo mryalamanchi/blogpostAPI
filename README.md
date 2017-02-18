@@ -12,7 +12,7 @@ This repository contains the solution for the Blog Post API assignment.
 
 # API Implementation
 
-You will need to implement 2 API endpoints for this assignment.
+There are 2 API endpoints that are implemented in this assignment.
 
 1. `/post` endpoint for POSTing a single blog post
   * Method - POST
