@@ -17,8 +17,8 @@ There are 2 API endpoints that are implemented in this assignment.
 1. `/post` endpoint for POSTing a single blog post
   * Method - POST
   * data -
-       title : "blah blah blah"
-       body  : "blah blah blah"      
+       title : "title of the post"
+       body  : "body of the post"      
   
 2. `/posts` endpoint for GETing all blog posts
   * Endpoint *must* be 
@@ -29,4 +29,4 @@ All data exchanged with the API is in JSON format.
 
 # Included in the Repository
 
-An SQLite database `blog.db` includes the table and data (filled while testing).
+An SQLite database `blog.db` includes the table with it's schema. Also contains test data.
