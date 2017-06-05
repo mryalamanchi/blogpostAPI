@@ -21,9 +21,8 @@ There are 2 API endpoints that are implemented in this assignment.
        body  : "body of the post"      
   
 2. `/posts` endpoint for GETing all blog posts
-  * Endpoint *must* be 
   * Method - GET
-  * Content received consists of `post_id`, `title`, and `body` of all posts in an array.
+  * JSON data received consists of `post_id`, `title`, and `body` of all posts in an array.
 
 All data exchanged with the API is in JSON format.
 
